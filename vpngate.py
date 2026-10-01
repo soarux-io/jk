@@ -525,7 +525,7 @@ def build_hosts_text(data):
 EDT_UUID = os.environ.get("EDT_UUID", "f94db4a2-74a3-465a-96d8-8ff13c4a7af2")
 EDT_DOMAIN = os.environ.get("EDT_DOMAIN", "et.vdsw.nyc.mn")
 EDT_FINGERPRINT = os.environ.get("EDT_FINGERPRINT", "chrome")
-SUB_URL = os.environ.get("SUB_URL", "https://jerylihub.github.io/gate/sub.txt")
+SUB_URL = os.environ.get("SUB_URL", "https://soarux-io.github.io/jk/sub.txt")
 
 
 def _b64_secret_encode(plaintext, secret):
